@@ -1,24 +1,23 @@
-- Sistemi distribuiti: Introduzione, benefici e svantaggi. Trasparenza di accesso
-- Sistemi distribuiti: altre forme di trasparenza. Economicita, apertura, connettività e collaborazione, scalabilità, tolleranza ai guasti.
-- Web Framework, introduzione, Expressjs, installazione
+- Sistemi distribuiti: Introduzione, benefici e svantaggi.
+- Sistemi distribuiti: altre forme di trasparenza: accesso, scalabilità e tolleranza ai guasti.
+- Web Framework - Express.js
 - Svantaggi legati alla distribuzione.
-- Architetture di rete: livelli e strati. Uda1 Lezione3
-- [Progettazione API](progettazione-api.md)
-- Test su sistemi distribuiti
-- Architettura [REST](rest.md) e i suoi principi
-- Web Service - REST API - codici di stato previsti dal protocollo HTTP. Metodi GET POST PUT DELETE - CONTENT Type - CRUD. Il comando curl per il collaudo di web service REST
-- AJAX Introduction e Oggetto XMLHttpRequest
-- Comunicazione socket - come realizzare una cha
-- Il problema dell'[autenticazione](autenticazione.md)
-- What is web socket and how it is different from the HTTP? h
-- Real-time web application
-- cookies e sessioni, Gestione sessioni in express js
+- Architetture di rete: livelli e strati.
+- [Progettazione API](progettazione-api.md).
+- Architettura [REST](rest.md) e i suoi principi.
+- Web Service - REST API - codici di stato previsti dal protocollo HTTP.
+- Metodi GET POST PUT DELETE - CONTENT Type - CRUD.
+- Il comando curl per il collaudo di web service REST.
+- AJAX Introduction e Oggetto XMLHttpRequest.
+- Comunicazione socket - come realizzare una Real-time web application.
+- Il problema dell'[autenticazione](autenticazione.md).
+- What is web socket and how it is different from the HTTP? 
+- Cookies e sessioni, gestione delle sessioni in Express.
 - [Mock API](mock-api.md)
-- Handlebars JavaScript library
-- Utilizzo api terze parti, integrazione nel progetto individuale
-- Built-in Helpers con Handlebars
-- Model-View-Controller
+- Frontend JavaScript Framework and Templating Engines.
+- Utilizzo e integrazione api terze parti.
+- Model-View-Controller.
 - Introduzione ai software controllo versione, git.
-- I repository remoti, git branch e git tag, git merge
-- Unit test in js con jest, intro. al TDD
-- Problematiche relative agli ambienti di sviluppo. Introduzione alla virtualizzazione
+- I repository remoti, git branch e git tag, git merge.
+- Unit test in javascritp con jest, introduzione al TDD.
+- Problematiche relative agli ambienti di sviluppo, introduzione alla virtualizzazione.
