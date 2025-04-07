@@ -9,7 +9,7 @@
 - Web Service - REST API - codici di stato previsti dal protocollo HTTP. Metodi GET POST PUT DELETE - CONTENT Type - CRUD. Il comando curl per il collaudo di web service REST
 - AJAX Introduction e Oggetto XMLHttpRequest
 - Comunicazione socket - come realizzare una cha
-- Il problema dell'autenticazione
+- Il problema dell'[autenticazione](autenticazione.md)
 - What is web socket and how it is different from the HTTP? h
 - Real-time web application
 - cookies e sessioni, Gestione sessioni in express js
