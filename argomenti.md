@@ -13,7 +13,7 @@
 - What is web socket and how it is different from the HTTP? h
 - Real-time web application
 - cookies e sessioni, Gestione sessioni in express js
-- api mock creare un modulo nodejs
+- [Mock API](mock-api.md)
 - Handlebars JavaScript library
 - Utilizzo api terze parti, integrazione nel progetto individuale
 - Built-in Helpers con Handlebars
