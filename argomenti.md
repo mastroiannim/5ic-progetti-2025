@@ -12,7 +12,7 @@
 - Il problema dell'[autenticazione](autenticazione.md).
 - What is web socket and how it is different from the HTTP? 
 - Cookies e sessioni, gestione delle sessioni in Express.
-- [Mock API](mock-api.md)
+- [Mock API](mock-api.md).
 - Frontend JavaScript Framework and Templating Engines.
 - Utilizzo e integrazione api terze parti.
 - Model-View-Controller.
