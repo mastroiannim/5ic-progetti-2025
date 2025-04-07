@@ -1,12 +1,11 @@
 - Sistemi distribuiti: Introduzione, benefici e svantaggi.
 - Sistemi distribuiti: altre forme di trasparenza: accesso, scalabilità e tolleranza ai guasti.
 - Web Framework - Express.js
-- Svantaggi legati alla distribuzione.
 - Architetture di rete: livelli e strati.
 - [Progettazione API](progettazione-api.md).
 - Architettura [REST](rest.md) e i suoi principi.
-- Web Service - REST API - codici di stato previsti dal protocollo HTTP.
-- Metodi GET POST PUT DELETE - CONTENT Type - CRUD.
+- Web Service - codici di stato previsti dal protocollo HTTP.
+- CRUD - Metodi GET POST PUT DELETE.
 - Il comando curl per il collaudo di web service REST.
 - AJAX Introduction e Oggetto XMLHttpRequest.
 - Comunicazione socket - come realizzare una Real-time web application.
@@ -21,3 +20,4 @@
 - I repository remoti, git branch e git tag, git merge.
 - Unit test in javascritp con jest, introduzione al TDD.
 - Problematiche relative agli ambienti di sviluppo, introduzione alla virtualizzazione.
+- JWT.
