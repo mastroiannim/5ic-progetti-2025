@@ -1,0 +1,42 @@
+*Model-View-Controller (MVC)*
+Definizione
+Il pattern Model-View-Controller (MVC) è un'architettura software che suddivide un'applicazione in tre componenti principali: Model, View e Controller. Questa separazione consente una migliore organizzazione del codice, facilita la manutenzione e la scalabilità dell'applicazione.
+
+Componenti
+Model
+Rappresenta i dati e la logica di business dell'applicazione. È responsabile della gestione e dell'accesso ai dati, ad esempio tramite un database, e delle regole che definiscono il comportamento dell'applicazione.
+
+View
+Gestisce la presentazione dei dati all'utente. È l'interfaccia grafica o il layout HTML che visualizza le informazioni contenute nel Model.
+
+Controller
+Riceve gli input dell'utente (clic, form, richieste HTTP), li elabora, aggiorna il Model e seleziona la View appropriata da mostrare in risposta.
+
+Esempio pratico (Web)
+L’utente invia una richiesta al server (es. clic su un link o invio di un form).
+
+Il Controller riceve la richiesta, interagisce con il Model per ottenere o aggiornare i dati.
+
+Il Controller seleziona una View da restituire come risposta.
+
+La View presenta i dati aggiornati forniti dal Model.
+
+Vantaggi
+Separazione delle responsabilità.
+
+Facilità di testing e manutenzione.
+
+Riutilizzo del codice tra le componenti.
+
+Maggiore chiarezza nella struttura dell'applicazione.
+
+Utilizzo
+Il pattern MVC è usato in molti framework moderni, tra cui:
+
+ASP.NET Core (MVC)
+
+Ruby on Rails
+
+Laravel (PHP)
+
+Django (Python)
