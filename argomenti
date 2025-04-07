@@ -1,0 +1,24 @@
+Sistemi distribuiti: Introduzione, benefici e svantaggi. Trasparenza di accesso
+Sistemi distribuiti: altre forme di trasparenza. Economicita, apertura, connettività e collaborazione, scalabilità, tolleranza ai guasti.
+Web Framework, introduzione, Expressjs, installazione
+Svantaggi legati alla distribuzione.
+Architetture di rete: livelli e strati. Uda1 Lezione3
+Progettazione API
+Test su sistemi distribuiti
+Architettura REST e i suoi principi
+Web Service - REST API - codici di stato previsti dal protocollo HTTP. Metodi GET POST PUT DELETE - CONTENT Type - CRUD. Il comando curl per il collaudo di web service REST
+AJAX Introduction e Oggetto XMLHttpRequest
+Comunicazione socket - come realizzare una cha
+Il problema dell'autenticazione
+What is web socket and how it is different from the HTTP? h
+Real-time web application
+cookies e sessioni, Gestione sessioni in express js
+api mock creare un modulo nodejs
+Handlebars JavaScript library
+Utilizzo api terze parti, integrazione nel progetto individuale
+Built-in Helpers con Handlebars
+Model-View-Controller
+Introduzione ai software controllo versione, git.
+I repository remoti, git branch e git tag, git merge
+Unit test in js con jest, intro. al TDD
+Problematiche relative agli ambienti di sviluppo. Introduzione alla virtualizzazione
