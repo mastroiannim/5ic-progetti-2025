@@ -3,7 +3,7 @@ Sistemi distribuiti: altre forme di trasparenza. Economicita, apertura, connetti
 Web Framework, introduzione, Expressjs, installazione
 Svantaggi legati alla distribuzione.
 Architetture di rete: livelli e strati. Uda1 Lezione3
-Progettazione API
+[Progettazione API](progettazione-api.md)
 Test su sistemi distribuiti
 Architettura REST e i suoi principi
 Web Service - REST API - codici di stato previsti dal protocollo HTTP. Metodi GET POST PUT DELETE - CONTENT Type - CRUD. Il comando curl per il collaudo di web service REST
