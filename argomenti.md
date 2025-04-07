@@ -5,7 +5,7 @@
 - Architetture di rete: livelli e strati. Uda1 Lezione3
 - [Progettazione API](progettazione-api.md)
 - Test su sistemi distribuiti
-- Architettura REST e i suoi principi
+- Architettura [REST](rest.md) e i suoi principi
 - Web Service - REST API - codici di stato previsti dal protocollo HTTP. Metodi GET POST PUT DELETE - CONTENT Type - CRUD. Il comando curl per il collaudo di web service REST
 - AJAX Introduction e Oggetto XMLHttpRequest
 - Comunicazione socket - come realizzare una cha
