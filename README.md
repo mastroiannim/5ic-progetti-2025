@@ -1,7 +1,7 @@
 # elenco progetti
 
 Mastroianni Michele [nome-progetto](template.md)
-- Cortinovis Edoardo [TripPshere](TripSphere.md)
+- Cortinovis Edoardo [TripSphere](TripSphere.md)
 - Padovani Marco [TuneMatch](TuneMatch.md)
 - Duilio Suarez [Passave](Passave.md)
 - Rimpici Riccardo [WorldFlighTracker](WorldFlighTracker.md)
