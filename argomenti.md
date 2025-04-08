@@ -1,5 +1,5 @@
 - Sistemi distribuiti: Introduzione, benefici e svantaggi.
-- Sistemi distribuiti: altre forme di trasparenza: accesso, scalabilità e tolleranza ai guasti.
+- Sistemi distribuiti e forme di [trasparenza](trasparenza.md): accesso, scalabilità e tolleranza ai guasti.
 - Web Framework - Express.js
 - Architetture di rete: livelli e strati.
 - [Progettazione API](progettazione-api.md).
