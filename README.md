@@ -6,6 +6,7 @@ Mastroianni Michele [nome-progetto](template.md)
 - Rimpici Riccardo [WorldFlighTracker](WorldFlighTracker.md)
 - Zanchi Luca Serse [PastG](PastG.md)
 - Veliqi Miftar [Dressmify](Dressmify.md)
+- Rampinelli Gabriele [TrackPlus](TrackPlus.md)
 
 # elenco argomenti
 [argomenti](argomenti.md)
