@@ -11,6 +11,7 @@ Mastroianni Michele [nome-progetto](template.md)
 - Fabio Ceravolo [PonyGo](PonyGo.md)
 - Stefano Sana [BandMates](bandmates.md)
 - Davydov Tymofiy [Serenety](Serenety.md)
+- Savi Lorenzo [TrForex](TrForex.md)
 
 # elenco argomenti
 [argomenti](argomenti.md)
