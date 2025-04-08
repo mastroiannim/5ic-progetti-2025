@@ -2,4 +2,5 @@ PonyGo è una piattaforma muti-tenant dedicata alle pizzerie per organizzare in 
 e le comunicazioni con i pony-pizza, tutto a portata di smartphone. 
 Con pochi tocchi, le pizzerie possono assegnare ordini, monitorare in tempo reale lo stato delle consegne 
 e mantenere una comunicazione fluida con i propri fattorini, ottimizzando l'intero processo di consegne
-
+- Repositorylink: [PonyGo](https://github.com/ceravolof/PonyGo.git)
+- Docker Hub: 
