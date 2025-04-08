@@ -9,6 +9,7 @@ Mastroianni Michele [nome-progetto](template.md)
 - Veliqi Miftar [Dressmify](Dressmify.md)
 - Terceros Stefano [Hairplan](HairPlan.md)
 - Fabio Ceravolo [PonyGo](PonyGo.md)
+- Stefano Sana [BandMates](bandmates.md)
 
 # elenco argomenti
 [argomenti](argomenti.md)
