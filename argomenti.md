@@ -1,7 +1,7 @@
 - [Sistemi distribuiti](sistemi-distribuiti.md): Introduzione, benefici e svantaggi.
 - Sistemi distribuiti e forme di [trasparenza](trasparenza.md): accesso, scalabilità e tolleranza ai guasti.
 - Web Framework - [Express.js](express-js.md)
-- Architetture di rete: livelli e strati.
+- [Architetture di rete](architetture-di-rete.md): livelli e strati.
 - [Progettazione API](progettazione-api.md).
 - Architettura [REST](rest.md) e i suoi principi.
 - Web Service - codici di stato previsti dal protocollo HTTP.
