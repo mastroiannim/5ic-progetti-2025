@@ -15,6 +15,7 @@ Mastroianni Michele [nome-progetto](template.md)
 - Rampinelli Gabriele [TrackPlus](TrackPlus.md)
 - Carminati Andrea [WhatsinYourFridge](WYF.md)
 - Quarti Fabrizio [RestMatch](RestMatch.md)
+-Verzeri Nicolas [PFarmacy](PFarmacy.md)
 
 # elenco argomenti
 [argomenti](argomenti.md)
