@@ -13,6 +13,7 @@ Mastroianni Michele [nome-progetto](template.md)
 - Davydov Tymofiy [Serenety](Serenety.md)
 - Savi Lorenzo [TrForex](TrForex.md)
 - Rampinelli Gabriele [TrackPlus](TrackPlus.md)
+- Quarti Fabrizio [RestMatch](RestMatch.md)
 
 # elenco argomenti
 [argomenti](argomenti.md)
