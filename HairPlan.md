@@ -1,46 +1,24 @@
-**Il 60% dei clienti preferisce prenotare appuntamenti online**, mentre molti piccoli saloni si affidano ancora a telefonate o visite dirette. Questo gap genera:
-- Opportunità mancate
-- Tempo sprecato
-- Entrate perse per professionisti già molto impegnati
 
-## La Soluzione
+**Il 60% dei clienti preferisce prenotare online**, ma molti saloni si affidano ancora a telefonate o visite dirette. Questo porta a opportunità mancate e perdite di entrate.
 
-Presentiamo la nostra **piattaforma digitale** studiata appositamente per i parrucchieri, che:
+## La Nostra Soluzione
 
-- **Permette la prenotazione online** dei servizi
-- Aiuta i clienti a scegliere in base ai servizi specifici offerti da ciascun parrucchiere
-- Mostra in anticipo le disponibilità settimanali
+Una piattaforma digitale su misura per i parrucchieri che:
+- Permette la prenotazione online
+- Consente di scegliere servizi specifici
+- Mostra disponibilità settimanali
 - Invia promemoria per gli appuntamenti
 
-## Benefici per i Professionisti
+## Benefici
 
-Con questa piattaforma i parrucchieri possono:
-- Evitare sovrapposizioni di appuntamenti
-- Mantenere un’agenda ordinata
-- Fidelizzare la clientela
+- Evita sovrapposizioni di appuntamenti
+- Organizza l’agenda
+- Fidelizza la clientela
 
-## Il Valore Aggiunto
-
-Nella crescente digitalizzazione del settore dei servizi, il nostro prodotto consente ai piccoli saloni di:
-- **Distinguersi sul mercato**
-- Migliorare l’efficienza nella gestione degli appuntamenti
-- Offrire un’esperienza cliente superiore
-
-### Risultati Iniziali
-
-I primi feedback mostrano:
-- Un incremento del **30% nelle prenotazioni**
-- Una significativa riduzione delle assenze non comunicate
-
-Questi risultati semplificano il carico di lavoro dei parrucchieri e aumentano la loro visibilità online.
+I primi risultati mostrano un aumento del **30% nelle prenotazioni** e una riduzione delle assenze non comunicate.
 
 ## Invito all'Azione
 
-Se desideri ottimizzare le prenotazioni del tuo salone, possiamo organizzare una **breve dimostrazione** per mostrarti come la piattaforma può far crescere la tua attività.
+Contattaci per una breve dimostrazione e scopri come possiamo aiutare il tuo salone a crescere. Per espandere la nostra piattaforma, cerchiamo un investimento tra **10.000 e 20.000 euro**.
 
-Inoltre, per portare la nostra soluzione al livello successivo e rendere ancora più accessibile la gestione digitale degli appuntamenti, siamo alla ricerca di un investimento compreso tra **10.000 e 20.000 euro**. Questo ci permetterà di:
-- Potenziare la piattaforma
-- Ampliare la nostra presenza sul mercato
-- Offrire ai saloni di piccole e medie dimensioni l’efficienza e la visibilità che meritano
-
-**Sei pronto a esplorare questa opportunità insieme a noi?**
+**Sei pronto a unirti a noi?**
