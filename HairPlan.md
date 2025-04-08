@@ -24,3 +24,6 @@ Contattaci per una breve dimostrazione e scopri come possiamo aiutare il tuo sal
 **Sei pronto a unirti a noi?**
 
 [Scopri di più su GitHub](https://github.com/StefaTerce/HairPlan)
+[Scopri di più su GitHub](https://hub.docker.com/r/terceros/hairplan)
+
+
