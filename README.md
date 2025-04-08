@@ -12,6 +12,7 @@ Mastroianni Michele [nome-progetto](template.md)
 - Stefano Sana [BandMates](bandmates.md)
 - Davydov Tymofiy [Serenety](Serenety.md)
 - Savi Lorenzo [TrForex](TrForex.md)
+- Rampinelli Gabriele [TrackPlus](TrackPlus.md)
 
 # elenco argomenti
 [argomenti](argomenti.md)
