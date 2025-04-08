@@ -4,7 +4,7 @@
 - [Architetture di rete](architetture-di-rete.md): livelli e strati.
 - [Progettazione API](progettazione-api.md).
 - Architettura [REST](rest.md) e i suoi principi.
-- Web Service - codici di stato previsti dal protocollo HTTP.
+- Web Service - [codici di stato](codici-di-stato.md) previsti dal protocollo HTTP.
 - CRUD - Metodi GET POST PUT DELETE.
 - Il comando curl per il collaudo di web service REST.
 - AJAX Introduction e Oggetto XMLHttpRequest.
