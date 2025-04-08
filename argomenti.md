@@ -5,7 +5,7 @@
 - [Progettazione API](progettazione-api.md).
 - Architettura [REST](rest.md) e i suoi principi.
 - Web Service - [codici di stato](codici-di-stato.md) previsti dal protocollo HTTP.
-- CRUD - Metodi GET POST PUT DELETE.
+- [CRUD](crud.md) - Metodi GET POST PUT DELETE.
 - Il comando curl per il collaudo di web service REST.
 - AJAX Introduction e Oggetto XMLHttpRequest.
 - Comunicazione socket - come realizzare una Real-time web application.
