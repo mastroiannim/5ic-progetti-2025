@@ -10,6 +10,7 @@ Mastroianni Michele [nome-progetto](template.md)
 - Terceros Stefano [Hairplan](HairPlan.md)
 - Fabio Ceravolo [PonyGo](PonyGo.md)
 - Stefano Sana [BandMates](bandmates.md)
+- Davydov Tymofiy [Serenety](Serenety.md)
 
 # elenco argomenti
 [argomenti](argomenti.md)
