@@ -8,6 +8,7 @@ Mastroianni Michele [nome-progetto](template.md)
 - Zanchi Luca Serse [PastG](PastG.md)
 - Veliqi Miftar [Dressmify](Dressmify.md)
 - Terceros Stefano [Hairplan](HairPlan.md)
+- Fabio Ceravolo [PonyGo](PonyGo.md)
 
 # elenco argomenti
 [argomenti](argomenti.md)
