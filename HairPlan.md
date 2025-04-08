@@ -22,3 +22,5 @@ I primi risultati mostrano un aumento del **30% nelle prenotazioni** e una riduz
 Contattaci per una breve dimostrazione e scopri come possiamo aiutare il tuo salone a crescere. Per espandere la nostra piattaforma, cerchiamo un investimento tra **10.000 e 20.000 euro**.
 
 **Sei pronto a unirti a noi?**
+
+[Scopri di più su GitHub](https://github.com/StefaTerce/HairPlan)
