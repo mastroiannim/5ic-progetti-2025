@@ -4,7 +4,7 @@ Da diversi mesi, mi sto dedicando proprio a questo con TripSphere – una piatta
 Ho integrato l’accesso tramite Google, un sistema di commenti(ancora in fase di sviluppo), WebSocket per interazioni live, così da rendere l’esperienza sociale, fluida e coinvolgente.
 In più, utilizzo l’intelligenza artificiale per analizzare gusti e preferenze, offrendo suggerimenti su misura per ogni utente.
 
-Con questa piattaforma intuitiva, dinamica e intelligente, gli utenti non solo risparmiano tempo e stress, ma vivono il viaggio fin dalla fase di pianificazione, in modo condiviso e divertente.
+Con questa piattaforma intuitiva, dinamica e intelligente, gli utenti non solo risparmiano tempo e stress, ma vivono il viaggio fin dalla fase di pianificazione, in modo condiviso e senza indecisioni.
 
 - Github : [link](https://github.com/edoardocortinovis/TripSphere)
 - DockerHub : [link](https://hub.docker.com/repository/docker/edocorti/tripsphere/general)
