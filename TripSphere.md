@@ -1,10 +1,12 @@
-Quando ho iniziato a lavorare nel mondo delle soluzioni digitali per i viaggiatori, ho notato un problema comune: l'indecisione di cosa visitare, e di dove andare a fare un viaggio.
-Da diversi mesi, mi sto dedicando proprio a questo con TripSphere – una piattaforma che permette a gruppi di amici o community di pianificare insieme ogni piccolo dettaglio su cosa andare a visitare in tutto il mondo.
+Quante volte ci siamo trovati in una città, senza sapere davvero cosa valga la pena visitare? TripSphere nasce da lì: 
+è un’applicazione pensata per famiglie e viaggiatori indecisi, 
+che vogliono scoprire le attrazioni migliori in base all’esperienza 
+reale di chi c’è già stato. Non solo recensioni: su TripSphere 
+puoi commentare, condividere e lasciarti ispirare dalla community, 
+tutto in un’unica applicazione. Dietro c’è un team solido e un’idea 
+semplice, ma universale: aiutare le persone a scegliere il posto giusto 
+da visitare, al momento giusto.
 
-Ho integrato l’accesso tramite Google, un sistema di commenti(ancora in fase di sviluppo), WebSocket per interazioni live, così da rendere l’esperienza sociale, fluida e coinvolgente.
-In più, utilizzo l’intelligenza artificiale per analizzare gusti e preferenze, offrendo suggerimenti su misura per ogni utente.
-
-Con questa piattaforma intuitiva, dinamica e intelligente, gli utenti non solo risparmiano tempo e stress, ma vivono il viaggio fin dalla fase di pianificazione, in modo condiviso e senza indecisioni.
 
 - Github : [link](https://github.com/edoardocortinovis/TripSphere)
 - DockerHub : [link](https://hub.docker.com/repository/docker/edocorti/tripsphere/general)
