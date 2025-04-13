@@ -27,4 +27,6 @@ Contattaci per una breve dimostrazione e scopri come possiamo aiutare il tuo sal
 
 [Scarica l'immagine con Docker](https://hub.docker.com/r/terceros/hairplan)
 
+[Prova l'app (Non Tutte le funzionalita vanno all momento)]([https://hub.docker.com/r/terceros/hairplan](https://hairplan.onrender.com/login))
+
 
