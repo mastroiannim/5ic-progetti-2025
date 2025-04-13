@@ -18,6 +18,7 @@ Mastroianni Michele [nome-progetto](template.md)
 - Verzeri Nicolas [PFarmacy](PFarmacy.md)
 - Rusu Alin [UniFinder](UniFinder.md)
 - Filip Marco [HomeTekDoc](HomeTekDoc.md)
+- Borali David [KickMatch](KickMatch.md)
 
 # elenco argomenti
 [argomenti](argomenti.md)
