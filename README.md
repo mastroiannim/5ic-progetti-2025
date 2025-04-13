@@ -17,6 +17,7 @@ Mastroianni Michele [nome-progetto](template.md)
 - Quarti Fabrizio [RestMatch](RestMatch.md)
 - Verzeri Nicolas [PFarmacy](PFarmacy.md)
 - Rusu Alin [UniFinder](UniFinder.md)
+- Filip Marco [HomeTekDoc](HomeTekDoc.md)
 
 # elenco argomenti
 [argomenti](argomenti.md)
