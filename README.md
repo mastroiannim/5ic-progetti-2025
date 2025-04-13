@@ -16,6 +16,7 @@ Mastroianni Michele [nome-progetto](template.md)
 - Carminati Andrea [WhatsinYourFridge](WYF.md)
 - Quarti Fabrizio [RestMatch](RestMatch.md)
 - Verzeri Nicolas [PFarmacy](PFarmacy.md)
+- Rusu Alin [UniFinder](UniFinder.md)
 
 # elenco argomenti
 [argomenti](argomenti.md)
