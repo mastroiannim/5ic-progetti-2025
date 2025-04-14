@@ -16,7 +16,7 @@
 - Frontend JavaScript Framework and Templating Engines.
 - Utilizzo e integrazione api terze parti.
 - [Model-View-Controller](mvc.md).
-- Introduzione ai [software controllo versione](software-controllo-versione-md), git.
+- Introduzione ai [software controllo versione](software-controllo-versione.md), git.
 - I repository remoti, git branch e git tag, git merge.
 - Unit test in javascritp con jest, introduzione al TDD.
 - Problematiche relative agli ambienti di sviluppo, introduzione alla virtualizzazione.
