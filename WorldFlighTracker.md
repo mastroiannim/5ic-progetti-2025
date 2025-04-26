@@ -1,7 +1,4 @@
-Quando ho iniziato a sviluppare soluzioni innovative, mi sono imbattuto in un problema comune: le persone avevano bisogno di un modo affidabile per monitorare i voli in tempo reale in tutto il mondo.
+Quante volte ti sei ritrovato all’aeroporto senza sapere se il tuo volo partirà in orario o da quale gate? WorldFlightTracker nasce proprio per questo: è la tua bussola di viaggio, che mette a portata di mano tutte le informazioni sullo stato dei voli nel mondo, in tempo reale. Non solo orari e ritardi: con WorldFlightTracker scopri servizi aeroportuali, leggi recensioni verificate dai viaggiatori e condividi la tua esperienza con una community sempre in movimento. Un’unica app, su ogni dispositivo, per partire senza pensieri e arrivare dove vuoi, quando vuoi.
 
-Negli ultimi anni, mi sono specializzato nella creazione di sistemi di tracciamento precisi e facili da usare. Ho sviluppato **WorldFlighTracker** per fornire dati accurati e aggiornati, semplificando la gestione del traffico aereo. Inoltre, essendo un progetto open source, promuovo la collaborazione e l’innovazione continua all'interno della community.
-
-Con questa soluzione **robusta, versatile e innovativa**, i miei utenti non solo ottengono informazioni in tempo reale sui voli globali, ma beneficiano anche di una maggiore trasparenza e della possibilità di contribuire a un sistema in continua evoluzione.
-
-https://github.com/rimpx/WorldFlighTracker.git
+GitHub: https://github.com/rimpx/WorldFlighTracker.git
+DockerHub: https://hub.docker.com/repository/docker/riccardorimpi/worldflighttracker/general
