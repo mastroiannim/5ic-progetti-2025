@@ -1,7 +1,3 @@
-Certo! Ti preparo subito il testo formattato come un README per GitHub, includendo anche il link come richiesto:
-
----
-
 # Passave
 
 Buongiorno, sono Duilio, un tecnico informatico giovane e come molti della mia generazione – dipendente dai social network.  
