@@ -1,4 +1,4 @@
-Elevator pitch
+Elevator pitch:
 
 Lo sapevi che oltre il 70% delle persone che iniziano un percorso in palestra abbandonano perché non vedono progressi misurabili?
 E se il problema non fosse la motivazione, ma la mancanza degli strumenti giusti per monitorare i risultati?
