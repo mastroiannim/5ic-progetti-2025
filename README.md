@@ -20,6 +20,7 @@ Mastroianni Michele [nome-progetto](template.md)
 - Rusu Alin [UniFinder](UniFinder.md)
 - Filip Marco [HomeTekDoc](HomeTekDoc.md)
 - Borali David [KickMatch](KickMatch.md)
+- Gamba Simone [Gym_Tracker](Gym_Tracker.md)
 
 # elenco argomenti
 [argomenti](argomenti.md)
