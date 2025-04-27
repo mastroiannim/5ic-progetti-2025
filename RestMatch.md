@@ -38,4 +38,4 @@ RestMatch rivoluziona il modo in cui ristoratori e lavoratori si incontrano:
 
 ---
 
-👉 **Link alla repository GitHub:** [RestMatch](https://github.com/quartifabrizio/RestMatch)
+--> **Link alla repository GitHub:** [RestMatch](https://github.com/quartifabrizio/RestMatch)
