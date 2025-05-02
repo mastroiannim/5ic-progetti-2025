@@ -4,4 +4,4 @@ Quante volte ti sei ritrovato all’aeroporto senza sapere se il tuo volo partir
 
 GitHub: https://github.com/rimpx/WorldFlighTracker.git
 
-DockerHub: https://hub.docker.com/repository/docker/riccardorimpi/worldflighttracker/general
+DockerHub: https://hub.docker.com/repository/docker/riccardorimpi/worldflighttracker
