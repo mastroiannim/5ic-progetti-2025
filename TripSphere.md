@@ -9,8 +9,8 @@ da visitare, al momento giusto.
 
 
 - Github : [link](https://github.com/edoardocortinovis/TripSphere)
-- DockerHub : [link](https://hub.docker.com/repository/docker/edocorti/tripsphere/general)
+- DockerHub : [link](https://hub.docker.com/r/edocorti/tripsphere)
 - Backend : [Render](https://tripsphere-backend.onrender.com/)
-- Frontend : [Render](https://tripsphere-frontend.onrender.com)
+- Frontend : [Render](https://tripsphere-frontend.onrender.com) (no)
 
 
