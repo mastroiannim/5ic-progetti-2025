@@ -1,4 +1,4 @@
-##TrForex
+## TrForex
 
 TrForex è l’app gratuita per giovani investitori che vogliono imparare a fare trading senza rischiare denaro.
 Risolve il problema della FOMO e della mancanza di esperienza offrendo un conto demo, dati reali di mercato e risorse formative.
